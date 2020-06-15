@@ -2,7 +2,7 @@
 
 Welcome to ValorantStrats! Here you can create complex strategies for your Valorant team using our StratCreator tool!
 
-### Ohh
+### StratCreator Tool
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
+![Image](https://cdn.britannica.com/55/174255-050-526314B6/brown-Guernsey-cow.jpg)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
