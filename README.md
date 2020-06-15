@@ -1,10 +1,8 @@
 ## ValorantStrats
 
-You can use the [editor on GitHub](https://github.com/valorantstrats/valorantstrats.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to ValorantStrats! Here you can create complex strategies for your Valorant team using our StratCreator tool!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Ohh
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
